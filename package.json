@@ -2,6 +2,7 @@
    "name": "gDriveScaledImages",
    "version": "0.0.0-0",
    "repository": "joshterrell.com/gDriveScaledImages",
+   "main": "app.njs",
    "dependencies": {
       "googleapis": "*",
       "promise": "*",
