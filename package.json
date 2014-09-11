@@ -1,0 +1,11 @@
+{
+   "name": "gDriveScaledImages",
+   "version": "0.0.0-0",
+   "repository": "joshterrell.com/gDriveScaledImages",
+   "dependencies": {
+      "googleapis": "*",
+      "promise": "*",
+      "underscore": "*",
+      "string.prototype.endswith": "*"
+   }
+}
